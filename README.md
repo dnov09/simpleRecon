@@ -1,9 +1,3 @@
-David Ngige
-
-ITMS 543
-
-09/07/2021
-
 # s1mpleRec0n - Basic Port Scanners
 
 #### How to use
